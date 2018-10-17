@@ -1,0 +1,6 @@
+C:\Users\qwert\source\repos\Dictionary\Entity\bin\Debug\Entity.dll
+C:\Users\qwert\source\repos\Dictionary\Entity\bin\Debug\Entity.pdb
+C:\Users\qwert\source\repos\Dictionary\Entity\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\Dictionary\Entity\obj\Debug\Entity.dll
+C:\Users\qwert\source\repos\Dictionary\Entity\obj\Debug\Entity.pdb
+C:\Users\qwert\source\repos\Dictionary\Entity\obj\Debug\Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\Controller.pdb
+C:\Users\qwert\source\repos\Dictionary\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\Dictionary\Controller\obj\Debug\Controller.pdb
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\data.txt
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\Controller.exe
+C:\Users\qwert\source\repos\Dictionary\Controller\obj\Debug\Controller.exe
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\Entity.dll
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\Entity.pdb
+C:\Users\qwert\source\repos\Dictionary\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\Controller.exe.config
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\EntityFramework.dll
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\EntityFramework.xml
+C:\Users\qwert\source\repos\Dictionary\Controller\bin\Debug\EntityFramework.SqlServer.xml
